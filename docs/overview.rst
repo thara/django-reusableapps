@@ -57,10 +57,10 @@ should look something like this::
     # ...
     
     REUSABLE_APPS_DIRS = (
-      '/home/jannis/.local',
-      '/Users/Jannis/Code/eggs',
-      '/usr/share/django/apps',
-      'C:/www/django/apps',
+        '/home/jannis/.local',
+        '/Users/Jannis/Code/eggs',
+        '/usr/share/django/apps',
+        'C:/www/django/apps',
     )
 
     INSTALLED_APPS = (
